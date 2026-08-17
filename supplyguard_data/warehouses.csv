@@ -1,101 +1,251 @@
 warehouse_id,warehouse_name,city,province,warehouse_type,capacity_units
-W0001,SupplyGuard Johannesburg Hub 1,Johannesburg,Gauteng,Local,17941
-W0002,SupplyGuard East London Hub 2,East London,Eastern Cape,Regional,117223
-W0003,SupplyGuard  Centurion  Hub  3,Centurion,Gauteng,National,99912
-W0004,SupplyGuard Mbombela Hub 4,Mbombela,Mpumalanga,National,68637
-W0005,SupplyGuard Pretoria Hub 5,Pretoria,Gauteng,Regional,67787
-W0006,SupplyGuard Kuruman Hub 6,Kuruman,Northern Cape,National,129496
-W0007,SupplyGuard Kimberley Hub 7,Kimberley,Northern Cape,Distribution Centre,17462
-W0008,SupplyGuard Grahamstown Hub 8,Grahamstown,Eastern Cape,Local,106118
-W0009,SupplyGuard Stellenbosch Hub 9,Stellenbosch,Western Cape,Distribution Centre,34213
-W0010,SupplyGuard Thohoyandou Hub 10,Thohoyandou,Limpopo,Regional,18655
-W0011,SupplyGuard Mthatha Hub 11,Mthatha,Eastern Cape,National,81339
-W0012,SupplyGuard Soweto Hub 12,Soweto,Gauteng,National,146465
-W0013,SupplyGuard Thohoyandou Hub 13,Thohoyandou,Limpopo,Local,111684
-W0014,SupplyGuard Mitchells Plain Hub 14,Mitchells Plain,Western Cape,National,115365
-W0015,SUPPLYGUARD MBOMBELA HUB 15,Mbombela,Mpumalanga,Local,109034
-W0016,SupplyGuard Tzaneen Hub 16,Tzaneen,Limpopo,Regional,118979
-W0017,supplyguard johannesburg hub 17,Johannesburg,Gauteng,Regional,79417
-W0018,SupplyGuard Bloemfontein Hub 18,Bloemfontein,Free State,Regional,23576
-W0019,SupplyGuard Soweto Hub 19,Soweto,Gauteng,Local,126763
-W0020,SupplyGuard Klerksdorp Hub 20,Klerksdorp,North West,Regional,70305
-W0021,SupplyGuard Thohoyandou Hub 21,Thohoyandou,Limpopo,Regional,77551
-W0022,SupplyGuard Kroonstad Hub 22,Kroonstad,Free State,National,58765
-W0023,SupplyGuard Umhlanga Hub 23,Umhlanga,KwaZulu-Natal,Regional,31469
-W0024,SupplyGuard Newcastle Hub 24,Newcastle,KwaZulu-Natal,Distribution Centre,139380
-W0025,SupplyGuard Kroonstad Hub 25,Kroonstad,Free State,Regional,118327
-W0026,SupplyGuard Polokwane Hub 26,Polokwane,Limpopo,Regional,98360
-W0027,SupplyGuard Worcester Hub 27,Worcester,Western Cape,Distribution Centre,63350
-W0028,SupplyGuard Bloemfontein Hub 28,Bloemfontein,Free State,Regional,124300
-W0029,SupplyGuard Polokwane Hub 29,Polokwane,Limpopo,Distribution Centre,84087
-W0030,SupplyGuard Middelburg Hub 30,Middelburg,Mpumalanga,Regional,69295
-W0031,SupplyGuard Bloemfontein Hub 31,Bloemfontein,Free State,Regional,70316
-W0032,SupplyGuard Kuruman Hub 32,Kuruman,Northern Cape,Local,37949
-W0033,SupplyGuard Middelburg Hub 33,Middelburg,Mpumalanga,Local,18359
-W0034,SupplyGuard East London Hub 34,East London,Eastern Cape,Distribution Centre,85414
-W0035,SupplyGuard Roodepoort Hub 35,Roodepoort,Gauteng,National,133744
-W0036,SupplyGuard Pretoria Hub 36,Pretoria,Gauteng,Regional,14253
-W0037,SupplyGuard  Mbombela  Hub  37,Mbombela,Mpumalanga,Distribution Centre,129452
-W0038,SupplyGuard Middelburg Hub 38,Middelburg,Mpumalanga,Local,125006
-W0039,SupplyGuard Kimberley Hub 39,Kimberley,Northern Cape,National,45130
-W0040,SupplyGuard Upington Hub 40,Upington,Northern Cape,Local,96591
-W0041,SupplyGuard Sandton Hub 41,Sandton,Gauteng,Distribution Centre,28958
-W0042,SupplyGuard Newcastle Hub 42,Newcastle,KwaZulu-Natal,National,114922
-W0043,SupplyGuard Kroonstad Hub 43,Kroonstad,Free State,Regional,106575
-W0044,SupplyGuard Kimberley Hub 44,Kimberley,Northern Cape,Local,56406
-W0045,SupplyGuard Kuruman Hub 45,Kuruman,Northern Cape,Regional,14848
-W0046,SupplyGuard Richards Bay Hub 46,Richards Bay,KwaZulu-Natal,Regional,145751
-W0047,SupplyGuard Kuruman Hub 47,Kuruman,Northern Cape,National,69624
-W0048,SupplyGuard Thohoyandou Hub 48,Thohoyandou,Limpopo,National,134502
-W0049,SupplyGuard Sandton Hub 49,Sandton,Gauteng,Local,103298
-W0050,SupplyGuard Gqeberha Hub 50,Gqeberha,Eastern Cape,Regional,117865
-W0051,supplyguard johannesburg hub 51,Johannesburg,Gauteng,Distribution Centre,115185
-W0052,SupplyGuard Roodepoort Hub 52,Roodepoort,Gauteng,Regional,33222
-W0053,SupplyGuard Newcastle Hub 53,Newcastle,KwaZulu-Natal,Regional,57766
-W0054,SupplyGuard Kroonstad Hub 54 ,Kroonstad,Free State,Distribution Centre,72674
-W0055,SupplyGuard East London Hub 55,East London,Eastern Cape,Local,77179
-W0056,SupplyGuard Witbank Hub 56,Witbank,Mpumalanga,Distribution Centre,999999999
-W0057,SupplyGuard Upington Hub 57,Upington,Northern Cape,National,84252
-W0058,SupplyGuard East London Hub 58,East London,Eastern Cape,National,27371
-W0059,SupplyGuard Polokwane Hub 59,Polokwane,Limpopo,Regional,112789
-W0060,SupplyGuard Gqeberha Hub 60,Gqeberha,Eastern Cape,National,104042
-W0061,SupplyGuard George Hub 61,George,Western Cape,National,138766
-W0062,SupplyGuard Worcester Hub 62,Worcester,Western Cape,National,112990
-W0063,SupplyGuard Kimberley Hub 63,Kimberley,Northern Cape,Local,58163
-W0064,SupplyGuard Mahikeng Hub 64,Mahikeng,North West,Regional,145288
-W0065,SupplyGuard Mahikeng Hub 65,Mahikeng,North West,Distribution Centre,64573
-W0066,SupplyGuard Nelspruit Hub 66,Nelspruit,Mpumalanga,National,52244
-W0067,SupplyGuard Centurion Hub 67,Centurion,Gauteng,Distribution Centre,136302
-W0068,SupplyGuard Thohoyandou Hub 68,Thohoyandou,Limpopo,Distribution Centre,58716
-W0069,SupplyGuard Rustenburg Hub 69,Rustenburg,North West,National,16069
-W0070,SupplyGuard Khayelitsha Hub 70,Khayelitsha,Western Cape,Local,73085
-W0071,SupplyGuard Pretoria Hub 71,Pretoria,Gauteng,Regional,120373
-W0072,SupplyGuard Grahamstown Hub 72,Grahamstown,Eastern Cape,Regional,32473
-W0073,SupplyGuard Nelspruit Hub 73,Nelspruit,Mpumalanga,Local,72126
-W0074,SupplyGuard Mahikeng Hub 74,Mahikeng,North West,National,23838
-W0075,SupplyGuard Rustenburg Hub 75,Rustenburg,North West,National,104539
-W0076,SupplyGuard Kimberley Hub 76,Kimberley,Northern Cape,National,73977
-W0077,SupplyGuard East London Hub 77,East London,Eastern Cape,Distribution Centre,52878
-W0078,SupplyGuard Potchefstroom Hub 78,Potchefstroom,North West,Regional,37901
-W0079,SupplyGuard Mbombela Hub 79,Mbombela,Mpumalanga,Regional,86852
-W0080,SupplyGuard Mbombela Hub 80,Mbombela,Mpumalanga,Distribution Centre,102123
-W0081,SupplyGuard Welkom Hub 81,Welkom,Free State,Local,141344
-W0082,SupplyGuard Middelburg Hub 82,Middelburg,Mpumalanga,Regional,68387
-W0083,SupplyGuard Mthatha Hub 83,Mthatha,Eastern Cape,Regional,28299
-W0084,SupplyGuard Cape Town Hub 84,Cape Town,Western Cape,Local,125738
-W0085,SupplyGuard Cape Town Hub 85,Cape Town,Western Cape,Distribution Centre,96315
-W0086,SupplyGuard Kuruman Hub 86,Kuruman,Northern Cape,Regional,106538
-W0087,SupplyGuard Bellville Hub 87,Bellville,Western Cape,Regional,19097
-W0088,SupplyGuard Midrand Hub 88,Midrand,Gauteng,National,50293
-W0089,SupplyGuard Grahamstown Hub 89,Grahamstown,Eastern Cape,National,116337
-W0090,SupplyGuard Gqeberha Hub 90,Gqeberha,Eastern Cape,National,125677
-W0091,SupplyGuard Witbank Hub 91,Witbank,Mpumalanga,Local,68106
-W0092,SupplyGuard Mthatha Hub 92,Mthatha,Eastern Cape,Regional,121690
-W0093,SupplyGuard Welkom Hub 93,Welkom,Free State,Regional,127045
-W0094,SupplyGuard Welkom Hub 94,Welkom,Free State,Local,0
-W0095,SupplyGuard  Johannesburg  Hub  95,Johannesburg,Gauteng,Distribution Centre,135222
-W0096,SupplyGuard Johannesburg Hub 96,Johannesburg,Gauteng,Regional,0
-W0097,SupplyGuard Upington Hub 97,Upington,Northern Cape,Regional,39735
-W0098,supplyguard polokwane hub 98,Polokwane,Limpopo,Regional,103961
-W0099,SupplyGuard Thohoyandou Hub 99,Thohoyandou,Limpopo,Regional,97330
-W0100,SupplyGuard Klerksdorp Hub 100,Klerksdorp,North West,National,25264
+W00001,SupplyGuard Paarl Warehouse 1,Paarl,Western Cape,Distribution,79458
+W00002,SupplyGuard Grahamstown Warehouse 2,Grahamstown,Eastern Cape,Cold Storage,74606
+W00003,SupplyGuard Polokwane Warehouse 3,Polokwane,Limpopo,Cold Storage,106359
+W00004,SupplyGuard Bloemfontein Warehouse 4,Bloemfontein,Free State,Regional,49522
+W00005,SupplyGuard Rustenburg Warehouse 5,Rustenburg,North West,Fulfilment,240013
+W00006,SupplyGuard Witbank Warehouse 6,Witbank,Mpumalanga,Regional,11370
+W00007,SupplyGuard Gqeberha Warehouse 7,Gqeberha,Eastern Cape,Cross-Dock,30469
+W00008,SupplyGuard Mbombela Warehouse 8,Mbombela,Mpumalanga,Distribution,79188
+W00009,SupplyGuard Mbombela Warehouse 9,Mbombela,Mpumalanga,Distribution,137909
+W00010,SupplyGuard Bloemfontein Warehouse 10,Bloemfontein,Free State,Distribution,240715
+W00011,SupplyGuard Kroonstad Warehouse 11,Kroonstad,Free State,Fulfilment,225049
+W00012,SupplyGuard Kuruman Warehouse 12,Kuruman,Northern Cape,Cold Storage,231363
+W00013,SupplyGuard Kimberley Warehouse 13,Kimberley,Northern Cape,Cross-Dock,456731
+W00014,SupplyGuard Mthatha Warehouse 14,Mthatha,Eastern Cape,Cross-Dock,27539
+W00015,SupplyGuard Mahikeng Warehouse 15,Mahikeng,North West,Fulfilment,232052
+W00016,SupplyGuard Richards Bay Warehouse 16,Richards Bay,KwaZulu-Natal,Cold Storage,320519
+W00017,SupplyGuard Potchefstroom Warehouse 17,Potchefstroom,North West,Cold Storage,417720
+W00018,SupplyGuard Nelspruit Warehouse 18,Nelspruit,Mpumalanga,Regional,181633
+W00019,SupplyGuard Polokwane Warehouse 19,Polokwane,Limpopo,Cross-Dock,258591
+W00020,SupplyGuard Umhlanga Warehouse 20,Umhlanga,KwaZulu-Natal,Distribution,126015
+W00021,SupplyGuard Mbombela Warehouse 21,Mbombela,Mpumalanga,Cold Storage,128814
+W00022,SupplyGuard Polokwane Warehouse 22,Polokwane,Limpopo,Distribution,467183
+W00023,SupplyGuard Gqeberha Warehouse 23,Gqeberha,Eastern Cape,Cold Storage,321836
+W00024,SupplyGuard Upington Warehouse 24,Upington,Northern Cape,Distribution,483191
+W00025,SupplyGuard Potchefstroom Warehouse 25,Potchefstroom,North West,Regional,77289
+W00026,SupplyGuard Upington Warehouse 26,Upington,Northern Cape,Fulfilment,484231
+W00027,SupplyGuard Kuruman Warehouse 27,Kuruman,Northern Cape,Distribution,287556
+W00028,SupplyGuard Pietermaritzburg Warehouse 28,Pietermaritzburg,KwaZulu-Natal,Regional,418715
+W00029,SupplyGuard Gqeberha Warehouse 29,Gqeberha,Eastern Cape,Cold Storage,480695
+W00030,SupplyGuard Rustenburg Warehouse 30,Rustenburg,North West,Distribution,131038
+W00031,SupplyGuard George Warehouse 31,George,Western Cape,Fulfilment,380059
+W00032,SupplyGuard Polokwane Warehouse 32,Polokwane,Limpopo,Distribution,190043
+W00033,SupplyGuard Soweto Warehouse 33,Soweto,Gauteng,Fulfilment,310979
+W00034,SupplyGuard Witbank Warehouse 34,Witbank,Mpumalanga,Cross-Dock,289148
+W00035,SupplyGuard Kroonstad Warehouse 35,Kroonstad,Free State,Cross-Dock,262485
+W00036,SupplyGuard Centurion Warehouse 36,Centurion,Gauteng,Cold Storage,154402
+W00037,SupplyGuard Rustenburg Warehouse 37,Rustenburg,North West,Fulfilment,493911
+W00038,SupplyGuard Mthatha Warehouse 38,Mthatha,Eastern Cape,Regional,350774
+W00039,SupplyGuard Mbombela Warehouse 39,Mbombela,Mpumalanga,Cross-Dock,93380
+W00040,SupplyGuard Bloemfontein Warehouse 40,Bloemfontein,Free State,Fulfilment,133075
+W00041,SupplyGuard Welkom Warehouse 41,Welkom,Free State,Cross-Dock,81328
+W00042,SupplyGuard Gqeberha Warehouse 42,Gqeberha,Eastern Cape,Distribution,123954
+W00043,SupplyGuard Grahamstown Warehouse 43,Grahamstown,Eastern Cape,Regional,153678
+W00044,SupplyGuard Mthatha Warehouse 44,Mthatha,Eastern Cape,Fulfilment,230256
+W00045,SupplyGuard Kroonstad Warehouse 45,Kroonstad,Free State,Cross-Dock,264316
+W00046,SupplyGuard Centurion Warehouse 46,Centurion,Gauteng,Regional,183455
+W00047,SupplyGuard Mthatha Warehouse 47,Mthatha,Eastern Cape,Cross-Dock,123031
+W00048,SupplyGuard Bellville Warehouse 48,Bellville,Western Cape,Distribution,139605
+W00049,SupplyGuard Soweto Warehouse 49,Soweto,Gauteng,Regional,164041
+W00050,SupplyGuard Nelspruit Warehouse 50,Nelspruit,Mpumalanga,Cold Storage,31544
+W00051,SupplyGuard Rustenburg Warehouse 51,Rustenburg,North West,Cold Storage,183752
+W00052,SupplyGuard Cape Town Warehouse 52,Cape Town,Western Cape,Fulfilment,78119
+W00053,SupplyGuard Klerksdorp Warehouse 53,Klerksdorp,North West,Fulfilment,341463
+W00054,SupplyGuard Newcastle Warehouse 54,Newcastle,KwaZulu-Natal,Distribution,197192
+W00055,SupplyGuard Bloemfontein Warehouse 55,Bloemfontein,Free State,Fulfilment,266078
+W00056,SupplyGuard Cape Town Warehouse 56,Cape Town,Western Cape,Distribution,220420
+W00057,SupplyGuard East London Warehouse 57,East London,Eastern Cape,Fulfilment,319731
+W00058,SupplyGuard Mthatha Warehouse 58,Mthatha,Eastern Cape,Fulfilment,247432
+W00059,SupplyGuard Sandton Warehouse 59,Sandton,Gauteng,Cold Storage,227549
+W00060,SupplyGuard Mbombela Warehouse 60,Mbombela,Mpumalanga,Fulfilment,312638
+W00061,SupplyGuard Kimberley Warehouse 61,Kimberley,Northern Cape,Fulfilment,35163
+W00062,SupplyGuard Welkom Warehouse 62,Welkom,Free State,Regional,215090
+W00063,SupplyGuard Soweto Warehouse 63,Soweto,Gauteng,Regional,118048
+W00064,SupplyGuard Newcastle Warehouse 64,Newcastle,KwaZulu-Natal,Regional,483668
+W00065,SupplyGuard Welkom Warehouse 65,Welkom,Free State,Regional,49663
+W00066,SupplyGuard Upington Warehouse 66,Upington,Northern Cape,Cross-Dock,131191
+W00067,SupplyGuard George Warehouse 67,George,Western Cape,Cold Storage,31135
+W00068,SupplyGuard Middelburg Warehouse 68,Middelburg,Mpumalanga,Regional,107085
+W00069,SupplyGuard Pretoria Warehouse 69,Pretoria,Gauteng,Regional,426343
+W00070,SupplyGuard Umhlanga Warehouse 70,Umhlanga,KwaZulu-Natal,Cold Storage,420059
+W00071,SupplyGuard Upington Warehouse 71,Upington,Northern Cape,Fulfilment,224122
+W00072,SupplyGuard Nelspruit Warehouse 72,Nelspruit,Mpumalanga,Fulfilment,58586
+W00073,SupplyGuard Mbombela Warehouse 73,Mbombela,Mpumalanga,Distribution,386243
+W00074,SupplyGuard Mthatha Warehouse 74,Mthatha,Eastern Cape,Cross-Dock,378887
+W00075,SupplyGuard Johannesburg Warehouse 75,Johannesburg,Gauteng,Cold Storage,76455
+W00076,SupplyGuard Nelspruit Warehouse 76,Nelspruit,Mpumalanga,Distribution,316420
+W00077,SupplyGuard Gqeberha Warehouse 77,Gqeberha,Eastern Cape,Cold Storage,25304
+W00078,SupplyGuard Witbank Warehouse 78,Witbank,Mpumalanga,Cold Storage,344023
+W00079,SupplyGuard Pietermaritzburg Warehouse 79,Pietermaritzburg,KwaZulu-Natal,Cold Storage,125270
+W00080,SupplyGuard Cape Town Warehouse 80,Cape Town,Western Cape,Cold Storage,424835
+W00081,SupplyGuard Welkom Warehouse 81,Welkom,Free State,Distribution,163719
+W00082,SupplyGuard Kimberley Warehouse 82,Kimberley,Northern Cape,Cold Storage,223531
+W00083,SupplyGuard Thohoyandou Warehouse 83,Thohoyandou,Limpopo,Cold Storage,345143
+W00084,SupplyGuard Mbombela Warehouse 84,Mbombela,Mpumalanga,Cross-Dock,360585
+W00085,SupplyGuard Kuruman Warehouse 85,Kuruman,Northern Cape,Cold Storage,336858
+W00086,SupplyGuard Sandton Warehouse 86,Sandton,Gauteng,Cold Storage,27130
+W00087,SupplyGuard Kuruman Warehouse 87,Kuruman,Northern Cape,Cold Storage,331731
+W00088,SupplyGuard Durban Warehouse 88,Durban,KwaZulu-Natal,Distribution,446419
+W00089,SupplyGuard Bellville Warehouse 89,Bellville,Western Cape,Regional,295744
+W00090,SupplyGuard Newcastle Warehouse 90,Newcastle,KwaZulu-Natal,Distribution,386801
+W00091,SupplyGuard Nelspruit Warehouse 91,Nelspruit,Mpumalanga,Cross-Dock,182333
+W00092,SupplyGuard Middelburg Warehouse 92,Middelburg,Mpumalanga,Fulfilment,216189
+W00093,SupplyGuard Witbank Warehouse 93,Witbank,Mpumalanga,Fulfilment,99354
+W00094,SupplyGuard Paarl Warehouse 94,Paarl,Western Cape,Fulfilment,295492
+W00095,SupplyGuard Pietermaritzburg Warehouse 95,Pietermaritzburg,KwaZulu-Natal,Cross-Dock,346961
+W00096,SupplyGuard Polokwane Warehouse 96,Polokwane,Limpopo,Fulfilment,155645
+W00097,SupplyGuard Witbank Warehouse 97,Witbank,Mpumalanga,Cross-Dock,240890
+W00098,SupplyGuard Cape Town Warehouse 98,Cape Town,Western Cape,Cross-Dock,410769
+W00099,SupplyGuard Umhlanga Warehouse 99,Umhlanga,KwaZulu-Natal,Cold Storage,470356
+W00100,SupplyGuard Kuruman Warehouse 100,Kuruman,Northern Cape,Fulfilment,471285
+W00101,SupplyGuard Upington Warehouse 101,Upington,Northern Cape,Cold Storage,354823
+W00102,SupplyGuard Soweto Warehouse 102,Soweto,Gauteng,Fulfilment,279397
+W00103,SupplyGuard Kroonstad Warehouse 103,Kroonstad,Free State,Regional,470112
+W00104,SupplyGuard Welkom Warehouse 104,Welkom,Free State,Regional,204785
+W00105,SupplyGuard Upington Warehouse 105,Upington,Northern Cape,Regional,186670
+W00106,SupplyGuard Richards Bay Warehouse 106,Richards Bay,KwaZulu-Natal,Cross-Dock,120489
+W00107,SupplyGuard Kroonstad Warehouse 107,Kroonstad,Free State,Cold Storage,391939
+W00108,SupplyGuard Upington Warehouse 108,Upington,Northern Cape,Regional,118000
+W00109,SupplyGuard Paarl Warehouse 109,Paarl,Western Cape,Distribution,269212
+W00110,SupplyGuard Richards Bay Warehouse 110,Richards Bay,KwaZulu-Natal,Fulfilment,432489
+W00111,SupplyGuard Cape Town Warehouse 111,Cape Town,Western Cape,Cold Storage,440995
+W00112,SupplyGuard Sandton Warehouse 112,Sandton,Gauteng,Fulfilment,86922
+W00113,SupplyGuard Durban Warehouse 113,Durban,KwaZulu-Natal,Cold Storage,426671
+W00114,SupplyGuard Bloemfontein Warehouse 114,Bloemfontein,Free State,Distribution,115530
+W00115,SupplyGuard George Warehouse 115,George,Western Cape,Fulfilment,468553
+W00116,SupplyGuard Upington Warehouse 116,Upington,Northern Cape,Fulfilment,450244
+W00117,SupplyGuard Polokwane Warehouse 117,Polokwane,Limpopo,Fulfilment,420638
+W00118,SupplyGuard Cape Town Warehouse 118,Cape Town,Western Cape,Regional,439878
+W00119,SupplyGuard Klerksdorp Warehouse 119,Klerksdorp,North West,Cold Storage,335038
+W00120,SupplyGuard Bellville Warehouse 120,Bellville,Western Cape,Fulfilment,479838
+W00121,SupplyGuard Mahikeng Warehouse 121,Mahikeng,North West,Fulfilment,309863
+W00122,SupplyGuard Mahikeng Warehouse 122,Mahikeng,North West,Cold Storage,429290
+W00123,SupplyGuard Stellenbosch Warehouse 123,Stellenbosch,Western Cape,Cross-Dock,219548
+W00124,SupplyGuard Klerksdorp Warehouse 124,Klerksdorp,North West,Cross-Dock,434133
+W00125,SupplyGuard Kroonstad Warehouse 125,Kroonstad,Free State,Distribution,75450
+W00126,SupplyGuard Polokwane Warehouse 126,Polokwane,Limpopo,Cross-Dock,168068
+W00127,SupplyGuard Upington Warehouse 127,Upington,Northern Cape,Fulfilment,101446
+W00128,SupplyGuard Rustenburg Warehouse 128,Rustenburg,North West,Regional,372036
+W00129,SupplyGuard Kuruman Warehouse 129,Kuruman,Northern Cape,Cross-Dock,392608
+W00130,SupplyGuard Pietermaritzburg Warehouse 130,Pietermaritzburg,KwaZulu-Natal,Cold Storage,431913
+W00131,SupplyGuard Kuruman Warehouse 131,Kuruman,Northern Cape,Fulfilment,276130
+W00132,SupplyGuard Rustenburg Warehouse 132,Rustenburg,North West,Cross-Dock,232857
+W00133,SupplyGuard Witbank Warehouse 133,Witbank,Mpumalanga,Fulfilment,82127
+W00134,SupplyGuard Kroonstad Warehouse 134,Kroonstad,Free State,Cold Storage,194003
+W00135,SupplyGuard Gqeberha Warehouse 135,Gqeberha,Eastern Cape,Distribution,153554
+W00136,SupplyGuard Middelburg Warehouse 136,Middelburg,Mpumalanga,Cross-Dock,113336
+W00137,SupplyGuard Stellenbosch Warehouse 137,Stellenbosch,Western Cape,Regional,486876
+W00138,SupplyGuard Cape Town Warehouse 138,Cape Town,Western Cape,Cold Storage,199554
+W00139,SupplyGuard Grahamstown Warehouse 139,Grahamstown,Eastern Cape,Fulfilment,436402
+W00140,SupplyGuard Middelburg Warehouse 140,Middelburg,Mpumalanga,Distribution,266334
+W00141,SupplyGuard Umhlanga Warehouse 141,Umhlanga,KwaZulu-Natal,Distribution,221661
+W00142,SupplyGuard Upington Warehouse 142,Upington,Northern Cape,Cross-Dock,42625
+W00143,SupplyGuard Umhlanga Warehouse 143,Umhlanga,KwaZulu-Natal,Cold Storage,146239
+W00144,SupplyGuard Bloemfontein Warehouse 144,Bloemfontein,Free State,Fulfilment,71603
+W00145,SupplyGuard Polokwane Warehouse 145,Polokwane,Limpopo,Distribution,225174
+W00146,SupplyGuard Bellville Warehouse 146,Bellville,Western Cape,Cold Storage,452042
+W00147,SupplyGuard Mbombela Warehouse 147,Mbombela,Mpumalanga,Cold Storage,273265
+W00148,SupplyGuard Potchefstroom Warehouse 148,Potchefstroom,North West,Fulfilment,438748
+W00149,SupplyGuard Potchefstroom Warehouse 149,Potchefstroom,North West,Distribution,497227
+W00150,SupplyGuard Tzaneen Warehouse 150,Tzaneen,Limpopo,Fulfilment,416142
+W00151,SupplyGuard Welkom Warehouse 151,Welkom,Free State,Distribution,146757
+W00152,SupplyGuard Umhlanga Warehouse 152,Umhlanga,KwaZulu-Natal,Fulfilment,491485
+W00153,SupplyGuard Mthatha Warehouse 153,Mthatha,Eastern Cape,Cross-Dock,166873
+W00154,SupplyGuard Nelspruit Warehouse 154,Nelspruit,Mpumalanga,Regional,228275
+W00155,SupplyGuard Witbank Warehouse 155,Witbank,Mpumalanga,Distribution,261985
+W00156,SupplyGuard Mthatha Warehouse 156,Mthatha,Eastern Cape,Cold Storage,345445
+W00157,SupplyGuard Witbank Warehouse 157,Witbank,Mpumalanga,Fulfilment,86068
+W00158,SupplyGuard Kuruman Warehouse 158,Kuruman,Northern Cape,Cold Storage,29258
+W00159,SupplyGuard Cape Town Warehouse 159,Cape Town,Western Cape,Cross-Dock,376082
+W00160,SupplyGuard Middelburg Warehouse 160,Middelburg,Mpumalanga,Cross-Dock,456255
+W00161,SupplyGuard Middelburg Warehouse 161,Middelburg,Mpumalanga,Regional,173172
+W00162,SupplyGuard Nelspruit Warehouse 162,Nelspruit,Mpumalanga,Regional,337308
+W00163,SupplyGuard Klerksdorp Warehouse 163,Klerksdorp,North West,Cold Storage,77405
+W00164,SupplyGuard Thohoyandou Warehouse 164,Thohoyandou,Limpopo,Cold Storage,245539
+W00165,SupplyGuard Potchefstroom Warehouse 165,Potchefstroom,North West,Cross-Dock,448459
+W00166,SupplyGuard Kimberley Warehouse 166,Kimberley,Northern Cape,Regional,422457
+W00167,SupplyGuard Bellville Warehouse 167,Bellville,Western Cape,Cross-Dock,113944
+W00168,SupplyGuard Pretoria Warehouse 168,Pretoria,Gauteng,Cross-Dock,77315
+W00169,SupplyGuard Witbank Warehouse 169,Witbank,Mpumalanga,Regional,75591
+W00170,SupplyGuard Thohoyandou Warehouse 170,Thohoyandou,Limpopo,Cold Storage,183556
+W00171,SupplyGuard Mahikeng Warehouse 171,Mahikeng,North West,Fulfilment,484657
+W00172,SupplyGuard Pietermaritzburg Warehouse 172,Pietermaritzburg,KwaZulu-Natal,Fulfilment,334859
+W00173,SupplyGuard Bellville Warehouse 173,Bellville,Western Cape,Regional,68223
+W00174,SupplyGuard George Warehouse 174,George,Western Cape,Fulfilment,115315
+W00175,SupplyGuard Middelburg Warehouse 175,Middelburg,Mpumalanga,Cross-Dock,393401
+W00176,SupplyGuard Welkom Warehouse 176,Welkom,Free State,Cross-Dock,350931
+W00177,SupplyGuard Klerksdorp Warehouse 177,Klerksdorp,North West,Cold Storage,90156
+W00178,SupplyGuard Stellenbosch Warehouse 178,Stellenbosch,Western Cape,Regional,117215
+W00179,SupplyGuard Midrand Warehouse 179,Midrand,Gauteng,Distribution,257990
+W00180,SupplyGuard Grahamstown Warehouse 180,Grahamstown,Eastern Cape,Cold Storage,401229
+W00181,SupplyGuard Durban Warehouse 181,Durban,KwaZulu-Natal,Cold Storage,392978
+W00182,SupplyGuard Centurion Warehouse 182,Centurion,Gauteng,Cross-Dock,382480
+W00183,SupplyGuard Potchefstroom Warehouse 183,Potchefstroom,North West,Regional,418099
+W00184,SupplyGuard Paarl Warehouse 184,Paarl,Western Cape,Cross-Dock,211833
+W00185,SupplyGuard Welkom Warehouse 185,Welkom,Free State,Cold Storage,134732
+W00186,SupplyGuard Kuruman Warehouse 186,Kuruman,Northern Cape,Regional,71929
+W00187,SupplyGuard Kimberley Warehouse 187,Kimberley,Northern Cape,Cold Storage,78579
+W00188,SupplyGuard Rustenburg Warehouse 188,Rustenburg,North West,Cross-Dock,279889
+W00189,SupplyGuard Tzaneen Warehouse 189,Tzaneen,Limpopo,Distribution,252464
+W00190,SupplyGuard Upington Warehouse 190,Upington,Northern Cape,Cold Storage,5104
+W00191,SupplyGuard Gqeberha Warehouse 191,Gqeberha,Eastern Cape,Regional,167963
+W00192,SupplyGuard Polokwane Warehouse 192,Polokwane,Limpopo,Distribution,312418
+W00193,SupplyGuard Rustenburg Warehouse 193,Rustenburg,North West,Cross-Dock,392138
+W00194,SupplyGuard Rustenburg Warehouse 194,Rustenburg,North West,Cross-Dock,44366
+W00195,SupplyGuard Grahamstown Warehouse 195,Grahamstown,Eastern Cape,Regional,58685
+W00196,SupplyGuard Kuruman Warehouse 196,Kuruman,Northern Cape,Regional,56185
+W00197,SupplyGuard Worcester Warehouse 197,Worcester,Western Cape,Cross-Dock,110659
+W00198,SupplyGuard Thohoyandou Warehouse 198,Thohoyandou,Limpopo,Distribution,446976
+W00199,SupplyGuard Klerksdorp Warehouse 199,Klerksdorp,North West,Fulfilment,377265
+W00200,SupplyGuard Pretoria Warehouse 200,Pretoria,Gauteng,Cross-Dock,388632
+W00201,SupplyGuard Johannesburg Warehouse 201,Johannesburg,Gauteng,Fulfilment,472403
+W00202,SupplyGuard East London Warehouse 202,East London,Eastern Cape,Fulfilment,402667
+W00203,SupplyGuard Upington Warehouse 203,Upington,Northern Cape,Cross-Dock,291051
+W00204,SupplyGuard Bloemfontein Warehouse 204,Bloemfontein,Free State,Fulfilment,400371
+W00205,SupplyGuard Middelburg Warehouse 205,Middelburg,Mpumalanga,Cold Storage,237545
+W00206,SupplyGuard Kimberley Warehouse 206,Kimberley,Northern Cape,Cold Storage,232584
+W00207,SupplyGuard Upington Warehouse 207,Upington,Northern Cape,Cross-Dock,218505
+W00208,SupplyGuard Richards Bay Warehouse 208,Richards Bay,KwaZulu-Natal,Cold Storage,306003
+W00209,SupplyGuard Middelburg Warehouse 209,Middelburg,Mpumalanga,Distribution,399009
+W00210,SupplyGuard East London Warehouse 210,East London,Eastern Cape,Fulfilment,207511
+W00211,SupplyGuard Centurion Warehouse 211,Centurion,Gauteng,Cross-Dock,273220
+W00212,SupplyGuard Soweto Warehouse 212,Soweto,Gauteng,Cross-Dock,49342
+W00213,SupplyGuard Worcester Warehouse 213,Worcester,Western Cape,Distribution,36703
+W00214,SupplyGuard Grahamstown Warehouse 214,Grahamstown,Eastern Cape,Cold Storage,232599
+W00215,SupplyGuard Bloemfontein Warehouse 215,Bloemfontein,Free State,Regional,289484
+W00216,SupplyGuard Welkom Warehouse 216,Welkom,Free State,Fulfilment,251841
+W00217,SupplyGuard Soweto Warehouse 217,Soweto,Gauteng,Cold Storage,304751
+W00218,SupplyGuard Grahamstown Warehouse 218,Grahamstown,Eastern Cape,Cold Storage,136745
+W00219,SupplyGuard Upington Warehouse 219,Upington,Northern Cape,Cold Storage,221459
+W00220,SupplyGuard East London Warehouse 220,East London,Eastern Cape,Fulfilment,209643
+W00221,SupplyGuard Upington Warehouse 221,Upington,Northern Cape,Regional,335040
+W00222,SupplyGuard Witbank Warehouse 222,Witbank,Mpumalanga,Fulfilment,39893
+W00223,SupplyGuard Gqeberha Warehouse 223,Gqeberha,Eastern Cape,Distribution,259207
+W00224,SupplyGuard Mahikeng Warehouse 224,Mahikeng,North West,Regional,178003
+W00225,SupplyGuard Umhlanga Warehouse 225,Umhlanga,KwaZulu-Natal,Regional,192775
+W00226,SupplyGuard Stellenbosch Warehouse 226,Stellenbosch,Western Cape,Distribution,217923
+W00227,SupplyGuard Centurion Warehouse 227,Centurion,Gauteng,Distribution,316228
+W00228,SupplyGuard Centurion Warehouse 228,Centurion,Gauteng,Fulfilment,369369
+W00229,SupplyGuard Centurion Warehouse 229,Centurion,Gauteng,Cross-Dock,116050
+W00230,SupplyGuard Welkom Warehouse 230,Welkom,Free State,Regional,361039
+W00231,SupplyGuard Umhlanga Warehouse 231,Umhlanga,KwaZulu-Natal,Fulfilment,370346
+W00232,SupplyGuard Kuruman Warehouse 232,Kuruman,Northern Cape,Regional,106556
+W00233,SupplyGuard Paarl Warehouse 233,Paarl,Western Cape,Cold Storage,275913
+W00234,SupplyGuard Centurion Warehouse 234,Centurion,Gauteng,Cross-Dock,330717
+W00235,SupplyGuard Johannesburg Warehouse 235,Johannesburg,Gauteng,Fulfilment,323351
+W00236,SupplyGuard Upington Warehouse 236,Upington,Northern Cape,Distribution,428791
+W00237,SupplyGuard Kroonstad Warehouse 237,Kroonstad,Free State,Distribution,156581
+W00238,SupplyGuard Gqeberha Warehouse 238,Gqeberha,Eastern Cape,Cross-Dock,251564
+W00239,SupplyGuard Bloemfontein Warehouse 239,Bloemfontein,Free State,Cross-Dock,495930
+W00240,SupplyGuard Rustenburg Warehouse 240,Rustenburg,North West,Distribution,128527
+W00241,SupplyGuard Kuruman Warehouse 241,Kuruman,Northern Cape,Cold Storage,58661
+W00242,SupplyGuard Grahamstown Warehouse 242,Grahamstown,Eastern Cape,Cold Storage,209755
+W00243,SupplyGuard Kuruman Warehouse 243,Kuruman,Northern Cape,Cross-Dock,273365
+W00244,SupplyGuard Mahikeng Warehouse 244,Mahikeng,North West,Fulfilment,107997
+W00245,SupplyGuard Mahikeng Warehouse 245,Mahikeng,North West,Fulfilment,368596
+W00246,SupplyGuard Grahamstown Warehouse 246,Grahamstown,Eastern Cape,Cross-Dock,484898
+W00247,SupplyGuard Polokwane Warehouse 247,Polokwane,Limpopo,Distribution,388641
+W00248,SupplyGuard Thohoyandou Warehouse 248,Thohoyandou,Limpopo,Distribution,249748
+W00249,SupplyGuard Johannesburg Warehouse 249,Johannesburg,Gauteng,Cold Storage,362366
+W00250,SupplyGuard Mahikeng Warehouse 250,Mahikeng,North West,Distribution,436323
