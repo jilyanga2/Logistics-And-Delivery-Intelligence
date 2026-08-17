@@ -1,0 +1,101 @@
+warehouse_id,warehouse_name,city,province,warehouse_type,capacity_units
+W0001,SupplyGuard Johannesburg Hub 1,Johannesburg,Gauteng,Local,17941
+W0002,SupplyGuard East London Hub 2,East London,Eastern Cape,Regional,117223
+W0003,SupplyGuard  Centurion  Hub  3,Centurion,Gauteng,National,99912
+W0004,SupplyGuard Mbombela Hub 4,Mbombela,Mpumalanga,National,68637
+W0005,SupplyGuard Pretoria Hub 5,Pretoria,Gauteng,Regional,67787
+W0006,SupplyGuard Kuruman Hub 6,Kuruman,Northern Cape,National,129496
+W0007,SupplyGuard Kimberley Hub 7,Kimberley,Northern Cape,Distribution Centre,17462
+W0008,SupplyGuard Grahamstown Hub 8,Grahamstown,Eastern Cape,Local,106118
+W0009,SupplyGuard Stellenbosch Hub 9,Stellenbosch,Western Cape,Distribution Centre,34213
+W0010,SupplyGuard Thohoyandou Hub 10,Thohoyandou,Limpopo,Regional,18655
+W0011,SupplyGuard Mthatha Hub 11,Mthatha,Eastern Cape,National,81339
+W0012,SupplyGuard Soweto Hub 12,Soweto,Gauteng,National,146465
+W0013,SupplyGuard Thohoyandou Hub 13,Thohoyandou,Limpopo,Local,111684
+W0014,SupplyGuard Mitchells Plain Hub 14,Mitchells Plain,Western Cape,National,115365
+W0015,SUPPLYGUARD MBOMBELA HUB 15,Mbombela,Mpumalanga,Local,109034
+W0016,SupplyGuard Tzaneen Hub 16,Tzaneen,Limpopo,Regional,118979
+W0017,supplyguard johannesburg hub 17,Johannesburg,Gauteng,Regional,79417
+W0018,SupplyGuard Bloemfontein Hub 18,Bloemfontein,Free State,Regional,23576
+W0019,SupplyGuard Soweto Hub 19,Soweto,Gauteng,Local,126763
+W0020,SupplyGuard Klerksdorp Hub 20,Klerksdorp,North West,Regional,70305
+W0021,SupplyGuard Thohoyandou Hub 21,Thohoyandou,Limpopo,Regional,77551
+W0022,SupplyGuard Kroonstad Hub 22,Kroonstad,Free State,National,58765
+W0023,SupplyGuard Umhlanga Hub 23,Umhlanga,KwaZulu-Natal,Regional,31469
+W0024,SupplyGuard Newcastle Hub 24,Newcastle,KwaZulu-Natal,Distribution Centre,139380
+W0025,SupplyGuard Kroonstad Hub 25,Kroonstad,Free State,Regional,118327
+W0026,SupplyGuard Polokwane Hub 26,Polokwane,Limpopo,Regional,98360
+W0027,SupplyGuard Worcester Hub 27,Worcester,Western Cape,Distribution Centre,63350
+W0028,SupplyGuard Bloemfontein Hub 28,Bloemfontein,Free State,Regional,124300
+W0029,SupplyGuard Polokwane Hub 29,Polokwane,Limpopo,Distribution Centre,84087
+W0030,SupplyGuard Middelburg Hub 30,Middelburg,Mpumalanga,Regional,69295
+W0031,SupplyGuard Bloemfontein Hub 31,Bloemfontein,Free State,Regional,70316
+W0032,SupplyGuard Kuruman Hub 32,Kuruman,Northern Cape,Local,37949
+W0033,SupplyGuard Middelburg Hub 33,Middelburg,Mpumalanga,Local,18359
+W0034,SupplyGuard East London Hub 34,East London,Eastern Cape,Distribution Centre,85414
+W0035,SupplyGuard Roodepoort Hub 35,Roodepoort,Gauteng,National,133744
+W0036,SupplyGuard Pretoria Hub 36,Pretoria,Gauteng,Regional,14253
+W0037,SupplyGuard  Mbombela  Hub  37,Mbombela,Mpumalanga,Distribution Centre,129452
+W0038,SupplyGuard Middelburg Hub 38,Middelburg,Mpumalanga,Local,125006
+W0039,SupplyGuard Kimberley Hub 39,Kimberley,Northern Cape,National,45130
+W0040,SupplyGuard Upington Hub 40,Upington,Northern Cape,Local,96591
+W0041,SupplyGuard Sandton Hub 41,Sandton,Gauteng,Distribution Centre,28958
+W0042,SupplyGuard Newcastle Hub 42,Newcastle,KwaZulu-Natal,National,114922
+W0043,SupplyGuard Kroonstad Hub 43,Kroonstad,Free State,Regional,106575
+W0044,SupplyGuard Kimberley Hub 44,Kimberley,Northern Cape,Local,56406
+W0045,SupplyGuard Kuruman Hub 45,Kuruman,Northern Cape,Regional,14848
+W0046,SupplyGuard Richards Bay Hub 46,Richards Bay,KwaZulu-Natal,Regional,145751
+W0047,SupplyGuard Kuruman Hub 47,Kuruman,Northern Cape,National,69624
+W0048,SupplyGuard Thohoyandou Hub 48,Thohoyandou,Limpopo,National,134502
+W0049,SupplyGuard Sandton Hub 49,Sandton,Gauteng,Local,103298
+W0050,SupplyGuard Gqeberha Hub 50,Gqeberha,Eastern Cape,Regional,117865
+W0051,supplyguard johannesburg hub 51,Johannesburg,Gauteng,Distribution Centre,115185
+W0052,SupplyGuard Roodepoort Hub 52,Roodepoort,Gauteng,Regional,33222
+W0053,SupplyGuard Newcastle Hub 53,Newcastle,KwaZulu-Natal,Regional,57766
+W0054,SupplyGuard Kroonstad Hub 54 ,Kroonstad,Free State,Distribution Centre,72674
+W0055,SupplyGuard East London Hub 55,East London,Eastern Cape,Local,77179
+W0056,SupplyGuard Witbank Hub 56,Witbank,Mpumalanga,Distribution Centre,999999999
+W0057,SupplyGuard Upington Hub 57,Upington,Northern Cape,National,84252
+W0058,SupplyGuard East London Hub 58,East London,Eastern Cape,National,27371
+W0059,SupplyGuard Polokwane Hub 59,Polokwane,Limpopo,Regional,112789
+W0060,SupplyGuard Gqeberha Hub 60,Gqeberha,Eastern Cape,National,104042
+W0061,SupplyGuard George Hub 61,George,Western Cape,National,138766
+W0062,SupplyGuard Worcester Hub 62,Worcester,Western Cape,National,112990
+W0063,SupplyGuard Kimberley Hub 63,Kimberley,Northern Cape,Local,58163
+W0064,SupplyGuard Mahikeng Hub 64,Mahikeng,North West,Regional,145288
+W0065,SupplyGuard Mahikeng Hub 65,Mahikeng,North West,Distribution Centre,64573
+W0066,SupplyGuard Nelspruit Hub 66,Nelspruit,Mpumalanga,National,52244
+W0067,SupplyGuard Centurion Hub 67,Centurion,Gauteng,Distribution Centre,136302
+W0068,SupplyGuard Thohoyandou Hub 68,Thohoyandou,Limpopo,Distribution Centre,58716
+W0069,SupplyGuard Rustenburg Hub 69,Rustenburg,North West,National,16069
+W0070,SupplyGuard Khayelitsha Hub 70,Khayelitsha,Western Cape,Local,73085
+W0071,SupplyGuard Pretoria Hub 71,Pretoria,Gauteng,Regional,120373
+W0072,SupplyGuard Grahamstown Hub 72,Grahamstown,Eastern Cape,Regional,32473
+W0073,SupplyGuard Nelspruit Hub 73,Nelspruit,Mpumalanga,Local,72126
+W0074,SupplyGuard Mahikeng Hub 74,Mahikeng,North West,National,23838
+W0075,SupplyGuard Rustenburg Hub 75,Rustenburg,North West,National,104539
+W0076,SupplyGuard Kimberley Hub 76,Kimberley,Northern Cape,National,73977
+W0077,SupplyGuard East London Hub 77,East London,Eastern Cape,Distribution Centre,52878
+W0078,SupplyGuard Potchefstroom Hub 78,Potchefstroom,North West,Regional,37901
+W0079,SupplyGuard Mbombela Hub 79,Mbombela,Mpumalanga,Regional,86852
+W0080,SupplyGuard Mbombela Hub 80,Mbombela,Mpumalanga,Distribution Centre,102123
+W0081,SupplyGuard Welkom Hub 81,Welkom,Free State,Local,141344
+W0082,SupplyGuard Middelburg Hub 82,Middelburg,Mpumalanga,Regional,68387
+W0083,SupplyGuard Mthatha Hub 83,Mthatha,Eastern Cape,Regional,28299
+W0084,SupplyGuard Cape Town Hub 84,Cape Town,Western Cape,Local,125738
+W0085,SupplyGuard Cape Town Hub 85,Cape Town,Western Cape,Distribution Centre,96315
+W0086,SupplyGuard Kuruman Hub 86,Kuruman,Northern Cape,Regional,106538
+W0087,SupplyGuard Bellville Hub 87,Bellville,Western Cape,Regional,19097
+W0088,SupplyGuard Midrand Hub 88,Midrand,Gauteng,National,50293
+W0089,SupplyGuard Grahamstown Hub 89,Grahamstown,Eastern Cape,National,116337
+W0090,SupplyGuard Gqeberha Hub 90,Gqeberha,Eastern Cape,National,125677
+W0091,SupplyGuard Witbank Hub 91,Witbank,Mpumalanga,Local,68106
+W0092,SupplyGuard Mthatha Hub 92,Mthatha,Eastern Cape,Regional,121690
+W0093,SupplyGuard Welkom Hub 93,Welkom,Free State,Regional,127045
+W0094,SupplyGuard Welkom Hub 94,Welkom,Free State,Local,0
+W0095,SupplyGuard  Johannesburg  Hub  95,Johannesburg,Gauteng,Distribution Centre,135222
+W0096,SupplyGuard Johannesburg Hub 96,Johannesburg,Gauteng,Regional,0
+W0097,SupplyGuard Upington Hub 97,Upington,Northern Cape,Regional,39735
+W0098,supplyguard polokwane hub 98,Polokwane,Limpopo,Regional,103961
+W0099,SupplyGuard Thohoyandou Hub 99,Thohoyandou,Limpopo,Regional,97330
+W0100,SupplyGuard Klerksdorp Hub 100,Klerksdorp,North West,National,25264
