@@ -16,6 +16,7 @@ shipments.csv,weight_kg,Shipment weight
 shipments.csv,declared_value_zar,Declared shipment value
 shipments.csv,distance_km,Expected shipment distance
 shipments.csv,priority,Shipment priority
+
 deliveries.csv,delivery_id,Unique delivery identifier
 deliveries.csv,shipment_id,Shipment being delivered
 deliveries.csv,driver_id,Assigned driver
@@ -28,6 +29,7 @@ deliveries.csv,fuel_cost_zar,Estimated fuel cost
 deliveries.csv,customer_rating,Customer delivery rating
 deliveries.csv,attempt_number,Number of delivery attempts
 deliveries.csv,delivery_hour,Hour delivery took place
+
 drivers.csv,driver_id,Unique driver identifier
 drivers.csv,driver_name,Driver name
 drivers.csv,age,Driver age
@@ -43,15 +45,18 @@ vehicles.csv,capacity_kg,Vehicle carrying capacity
 vehicles.csv,fuel_type,Fuel type
 vehicles.csv,maintenance_score,Vehicle maintenance score
 vehicles.csv,current_mileage_km,Vehicle mileage
+
 warehouses.csv,warehouse_id,Unique warehouse identifier
 warehouses.csv,warehouse_name,Warehouse name
 warehouses.csv,city,Warehouse city
 warehouses.csv,province,Warehouse province
 warehouses.csv,warehouse_type,Warehouse category
 warehouses.csv,capacity_units,Warehouse capacity
+
 delivery_labels.csv,delivery_id,Delivery identifier
 delivery_labels.csv,is_late,Synthetic late-delivery indicator
 delivery_labels.csv,risk_reason,Explainable synthetic reason
+
 exchange_rates.csv,date,Exchange-rate date
 exchange_rates.csv,currency,Currency
 exchange_rates.csv,zar_rate,Approximate ZAR exchange rate
