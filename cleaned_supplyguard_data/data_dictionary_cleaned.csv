@@ -1,0 +1,57 @@
+,dataset,column,description
+0,customers.csv,customer_id,Unique customer identifier
+1,customers.csv,customer_name,Customer name
+2,customers.csv,customer_type,"Individual, business or enterprise customer"
+3,customers.csv,province,Customer province
+4,customers.csv,city,Customer city
+5,customers.csv,registration_date,Customer registration date
+6,customers.csv,monthly_shipping_budget,Estimated monthly logistics budget
+7,shipments.csv,shipment_id,Unique shipment identifier
+8,shipments.csv,customer_id,Customer placing the shipment
+9,shipments.csv,warehouse_id,Origin warehouse
+10,shipments.csv,shipment_date,Date shipment was created
+11,shipments.csv,shipment_type,Type of shipment
+12,shipments.csv,delivery_method,Delivery method
+13,shipments.csv,weight_kg,Shipment weight
+14,shipments.csv,declared_value_zar,Declared shipment value
+15,shipments.csv,distance_km,Expected shipment distance
+16,shipments.csv,priority,Shipment priority
+17,deliveries.csv,delivery_id,Unique delivery identifier
+18,deliveries.csv,shipment_id,Shipment being delivered
+19,deliveries.csv,driver_id,Assigned driver
+20,deliveries.csv,vehicle_id,Assigned vehicle
+21,deliveries.csv,delivery_date,Delivery date
+22,deliveries.csv,delivery_status,Delivery status
+23,deliveries.csv,delivery_duration_hours,Delivery duration
+24,deliveries.csv,delivery_distance_km,Actual delivery distance
+25,deliveries.csv,fuel_cost_zar,Estimated fuel cost
+26,deliveries.csv,customer_rating,Customer delivery rating
+27,deliveries.csv,attempt_number,Number of delivery attempts
+28,deliveries.csv,delivery_hour,Hour delivery took place
+29,drivers.csv,driver_id,Unique driver identifier
+30,drivers.csv,driver_name,Driver name
+31,drivers.csv,age,Driver age
+32,drivers.csv,experience_years,Driving experience
+33,drivers.csv,license_type,Driving licence category
+34,drivers.csv,employment_type,Employment arrangement
+35,drivers.csv,home_province,Driver home province
+36,drivers.csv,performance_rating,Synthetic driver performance rating
+37,vehicles.csv,vehicle_id,Unique vehicle identifier
+38,vehicles.csv,vehicle_type,Vehicle category
+39,vehicles.csv,vehicle_age_years,Vehicle age
+40,vehicles.csv,capacity_kg,Vehicle carrying capacity
+41,vehicles.csv,fuel_type,Fuel type
+42,vehicles.csv,maintenance_score,Vehicle maintenance score
+43,vehicles.csv,current_mileage_km,Vehicle mileage
+44,warehouses.csv,warehouse_id,Unique warehouse identifier
+45,warehouses.csv,warehouse_name,Warehouse name
+46,warehouses.csv,city,Warehouse city
+47,warehouses.csv,province,Warehouse province
+48,warehouses.csv,warehouse_type,Warehouse category
+49,warehouses.csv,capacity_units,Warehouse capacity
+50,delivery_labels.csv,delivery_id,Delivery identifier
+51,delivery_labels.csv,is_late,Synthetic late-delivery indicator
+52,delivery_labels.csv,risk_reason,Explainable synthetic reason
+53,exchange_rates.csv,date,Exchange-rate date
+54,exchange_rates.csv,currency,Currency
+55,exchange_rates.csv,zar_rate,Approximate ZAR exchange rate

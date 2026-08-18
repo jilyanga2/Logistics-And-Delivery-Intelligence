@@ -6,6 +6,7 @@ customers.csv,province,Customer province
 customers.csv,city,Customer city
 customers.csv,registration_date,Customer registration date
 customers.csv,monthly_shipping_budget,Estimated monthly logistics budget
+
 shipments.csv,shipment_id,Unique shipment identifier
 shipments.csv,customer_id,Customer placing the shipment
 shipments.csv,warehouse_id,Origin warehouse
@@ -38,6 +39,7 @@ drivers.csv,license_type,Driving licence category
 drivers.csv,employment_type,Employment arrangement
 drivers.csv,home_province,Driver home province
 drivers.csv,performance_rating,Synthetic driver performance rating
+
 vehicles.csv,vehicle_id,Unique vehicle identifier
 vehicles.csv,vehicle_type,Vehicle category
 vehicles.csv,vehicle_age_years,Vehicle age
