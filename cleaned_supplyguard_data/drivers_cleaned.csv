@@ -1,4 +1,4 @@
-,driver_id,driver_name,age,experience_years,license_type,employment_type,home_province,performance_rating
+driver_id,driver_name,age,experience_years,license_type,employment_type,home_province,performance_rating
 0,D000001,Dumisani Molefe,47,34,Code 10,Contract,North West,3.51
 1,D000002,Mpho Modise,59,25,Code 10,Contract,Western Cape,3.28
 2,D000003,Themba Naidoo,37,6,Code 14,Permanent,Free State,4.59
