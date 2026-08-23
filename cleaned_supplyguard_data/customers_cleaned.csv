@@ -1,4 +1,4 @@
-customer_id,customer_name,customer_type,province,city,registration_date,monthly_shipping_budget
+,customer_id,customer_name,customer_type,province,city,registration_date,monthly_shipping_budget
 0,C000001,Sipho Adams,Business,Gauteng,Centurion,2024-10-13,3530.2
 1,C000002,Amanda Maseko,Business,Gauteng,Johannesburg,2022-01-26,1555.5
 2,C000003,Karabo Mkhize,Individual,Limpopo,Polokwane,2019-03-04,13767.67
