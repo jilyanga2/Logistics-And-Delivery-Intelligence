@@ -16,3 +16,14 @@ The operational risk score is based on five key risk factors.
 
 # 6.3 Operational Risk Scoring 
 The objective of this analysis is to create a simple and explainable operational risk score for each delivery. Five operational risk facts are evualated and assigned weighted points, resulting in a score between 0 and 100. Deliveries are then classified as Low, Medium or High Risk
+
+# Documentation of Operational Risk Scoring
+The following scoring rules were applied: 
+    #Late Delivery: +25 points when delivery exceeds the 75th percentile 
+    #Very Long Delivery Distance: +15 points when delivery distance excceds the 90th percentile 
+    #Repeated Customer Delays: +20 points when a customer's late delivery exceeds 90th percentile
+    #High Risk Route: +20 points when a route's historical late delivery rate falls within the top 10% 
+
+The maximum possible score is 100 points when all five factors are present. 
+
+# 6.3.2  Risk Score and Interpetation 
