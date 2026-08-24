@@ -1,4 +1,4 @@
-,warehouse_id,warehouse_name,city,province,warehouse_type,capacity_units
+warehouse_id,warehouse_name,city,province,warehouse_type,capacity_units
 0,W00001,SupplyGuard Paarl Warehouse 1,Paarl,Western Cape,Distribution,79458
 1,W00002,SupplyGuard Grahamstown Warehouse 2,Grahamstown,Eastern Cape,Cold Storage,74606
 2,W00003,SupplyGuard Polokwane Warehouse 3,Polokwane,Limpopo,Cold Storage,106359

@@ -54,7 +54,11 @@ The original project supplied several related datasets, including customers, shi
 
 Before analysing the business questions, we inspected the datasets and investigated the quality of the information.
 
+<<<<<<< HEAD
 We checked the structure, size, data types and statistical characteristics of the datasets. We also investigated missing values, duplicate records, inconsistent text, incorrect numeric formats, inconsistent dates, invalid identifiers and unusual values. These were important because poor-quality input data could lead to incorrect business conclusions. The source project specifically identified these types of problems as part of the supplied logistics data. 
+=======
+We checked the structure, size, data types and statistical characteristics of the datasets. We also investigated missing values, duplicate records, inconsistent text, incorrect numeric formats, inconsistent dates, invalid identifiers and unusual values. These were important because poor-quality input data could lead to incorrect business conclusions. The source project specifically identified these types of problems as part of the supplied logistics data. fileciteturn1file3L502-L544
+>>>>>>> lucky-data_engineeing
 
 We standardised values where necessary and converted fields into appropriate formats. Date information was prepared so that we could analyse delivery activity by year, month, day, weekday and hour.
 
@@ -529,4 +533,8 @@ By monitoring these questions consistently, SupplyGuard can move from reacting t
 
 ## Important Note About the Results
 
+<<<<<<< HEAD
 Some exact numerical values, rankings and named entities depend on the final executed project dataset and notebooks. This README describes the team's analytical approach and the business conclusions that can reasonably be drawn from the analysis requirements and observed operational patterns. Exact figures such as the total number of customers, exact late-delivery percentage, and exact highest-ranking route or warehouse should be updated from the final executed notebooks before the README is presented as a final numerical report.
+=======
+Some exact numerical values, rankings and named entities depend on the final executed project dataset and notebooks. This README describes the team's analytical approach and the business conclusions that can reasonably be drawn from the analysis requirements and observed operational patterns. Exact figures such as the total number of customers, exact late-delivery percentage, and exact highest-ranking route or warehouse should be updated from the final executed notebooks before the README is presented as a final numerical report.
+>>>>>>> lucky-data_engineeing
