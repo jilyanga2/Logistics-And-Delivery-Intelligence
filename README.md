@@ -1,6 +1,5 @@
 # SupplyGuard Logistics & Delivery Intelligence
 
-<<<<<<< HEAD
 ## Executive Summary
 
 SupplyGuard Logistics is a South African logistics company that wanted to understand how effectively its delivery operation is performing, where delivery activity is concentrated, and which operational areas create the greatest risk.
@@ -55,11 +54,11 @@ The original project supplied several related datasets, including customers, shi
 
 Before analysing the business questions, we inspected the datasets and investigated the quality of the information.
 
-<<<<<<< HEAD
+
 We checked the structure, size, data types and statistical characteristics of the datasets. We also investigated missing values, duplicate records, inconsistent text, incorrect numeric formats, inconsistent dates, invalid identifiers and unusual values. These were important because poor-quality input data could lead to incorrect business conclusions. The source project specifically identified these types of problems as part of the supplied logistics data. 
-=======
-We checked the structure, size, data types and statistical characteristics of the datasets. We also investigated missing values, duplicate records, inconsistent text, incorrect numeric formats, inconsistent dates, invalid identifiers and unusual values. These were important because poor-quality input data could lead to incorrect business conclusions. The source project specifically identified these types of problems as part of the supplied logistics data. fileciteturn1file3L502-L544
->>>>>>> lucky-data_engineeing
+
+We checked the structure, size, data types and statistical characteristics of the datasets. We also investigated missing values, duplicate records, inconsistent text, incorrect numeric formats, inconsistent dates, invalid identifiers and unusual values. These were important because poor-quality input data could lead to incorrect business conclusions. The source project specifically identified these types of problems as part of the supplied logistics data.
+
 
 We standardised values where necessary and converted fields into appropriate formats. Date information was prepared so that we could analyse delivery activity by year, month, day, weekday and hour.
 
@@ -237,7 +236,7 @@ Risk factors include:
 - Long delivery duration
 - High-risk routes
 
-The project provides an example scoring approach in which these factors contribute points to an overall delivery-risk score. fileciteturn1file4L712-L724
+The project provides an example scoring approach in which these factors contribute points to an overall delivery-risk score. 
 
 This approach makes it easier for management to understand why a delivery has been classified as high risk.
 
@@ -492,7 +491,7 @@ The purpose of this work was to make the results understandable to stakeholders 
 
 Although each team member had a primary responsibility, the project was completed as a collaborative effort.
 
-The team worked with a shared GitHub repository and used branches and Pull Requests to support collaborative development and review. The project requirements specifically require each member to have an identifiable contribution and participate in the Pull Request process. fileciteturn1file1L201-L244
+The team worked with a shared GitHub repository and used branches and Pull Requests to support collaborative development and review. The project requirements specifically require each member to have an identifiable contribution and participate in the Pull Request process. 
 
 # Technology Used
 
@@ -534,12 +533,11 @@ By monitoring these questions consistently, SupplyGuard can move from reacting t
 
 ## Important Note About the Results
 
-<<<<<<< HEAD
+
 Some exact numerical values, rankings and named entities depend on the final executed project dataset and notebooks. This README describes the team's analytical approach and the business conclusions that can reasonably be drawn from the analysis requirements and observed operational patterns. Exact figures such as the total number of customers, exact late-delivery percentage, and exact highest-ranking route or warehouse should be updated from the final executed notebooks before the README is presented as a final numerical report.
-=======
+
 Some exact numerical values, rankings and named entities depend on the final executed project dataset and notebooks. This README describes the team's analytical approach and the business conclusions that can reasonably be drawn from the analysis requirements and observed operational patterns. Exact figures such as the total number of customers, exact late-delivery percentage, and exact highest-ranking route or warehouse should be updated from the final executed notebooks before the README is presented as a final numerical report.
->>>>>>> lucky-data_engineeing
-=======
+
 # Data Preparation and Final Merge
 
 The datasets were merged to create a final master dataset containing the relevant customer, shipment, delivery and operational required for the operational risk analysis.
@@ -567,4 +565,4 @@ The following scoring rules were applied:
 The maximum possible score is 100 points when all five factors are present. 
 
 # 6.3.2  Risk Score and Interpetation 
->>>>>>> Operational_Scoring
+
